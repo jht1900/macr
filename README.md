@@ -1,8 +1,8 @@
 # macr
 
-![images of Macromind/Macromedia/Adobe Director](./director-boxes/README.md)
+[images of Macromind/Macromedia/Adobe Director](./director-boxes/README.md)
 
-![images of Books on Director](./books/README.md)
+[images of Books on Director](./books/README.md)
 
 ![d1disks](https://github.com/jht1900/macr/blob/master/director-boxes/d1disks.jpg)
 
