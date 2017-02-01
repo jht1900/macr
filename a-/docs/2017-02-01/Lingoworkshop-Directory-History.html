@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="The Lingoworkshop: MeccaMedialight's contribution to the Director and Shockwave developer community. " />
+        <meta name="keywords" content="Director,Shockwave,Lingo,tutorials,source code,examples,multimedia,Melbourne,Australia" />
+        <meta name="copyright" content="Copyright (c)  MeccaMedialight Pty Ltd" />
+        <meta name="author" content="http://www.meccamedialight.com.au" />
+        <meta name="language" content="en-au" />
+        <meta name="robots" content="ALL, INDEX, FOLLOW" />
+        <meta name="generator" content="Textstem 4.9" />
+        <link rel="icon" href="/favicon.ico">
+        <title>Lingoworkshop</title>
+        <link href='http://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
+        <link href="/twigstem/themes/lingoworkshop14/css/base.css" rel="stylesheet">
+
+           
+        
+<script>
+var require = {
+    config: {
+        'config': {"modules":[],"section":"Articles &amp; Tutorials","theme":"lingoworkshop14"}
+    }
+};
+</script>
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1377441-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        <script data-main="/twigstem/themes/lingoworkshop14/js/app-dist" src="/twigstem/themes/lingoworkshop14/js/require.js"></script>
+        
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default" role="navigation" id="topnav">
+            <div class="container">
+
+
+
+                <div id="brandingstrap"><img src="/twigstem/themes/lingoworkshop14/img/logo.jpg" alt="Lingoworkshop Logo"/></div>
+
+               
+
+                <div id="mainnav" class="topnav ">
+                    <a href="/" class="topnavitem active"><span>Home</span></a>
+                    <a href="/codelib" class="topnavitem"><span>Codelib</span></a>
+                    <a href="/examples" class="topnavitem"><span>Examples</span></a>
+                    <a href="/articles" class="topnavitem"><span>Articles &amp; Tutorials</span></a>
+                    <a href="/testzone" class="topnavitem"><span>Testzone</span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="wrapper">
+                <div class="content-main " >
+                    <div class="contentarea" id="hero" >
+                        
+                    </div>
+                    <div class="contentarea" id="article" >
+                        
+     <div class="article">
+            <h2>An Unofficial Brief History of Director</h2>
+       
+            <p class="figure"><img class="captioned" src="/assets/images/Boxes2.jpg" border="0" alt="Packaging from the glory days (pre-ESD" width="520" height="300" /> <br /> <br /><span class="caption">Packaging from the glory days (pre-ESD)</span></p>
+<h3>The Videoworks Years (1984-1988)</h3>
+<p class="figure_left"><img src="/assets/images/Videoworks.gif" border="0" alt="Videoworks Icon" width="32" height="32" /></p>
+<p><a href="http://www.fentonia.com/bio/">Jay Fenton</a>, <a href="http://blog.broadbandmechanics.com/">Marc Canter</a> and <a href="http://www.superhappyfunfun.com/mark.htm">Mark Pierce</a> had worked together at Bally Games in Chicago. In the spring of 1984 Marc got angel funding from his father-in-law and together they formed formed a company called MacroMind. As Marc puts it, MacroMind was "a software rock and roll band; a programmer, an artist and Marc, the musician and manager ". This rock and roll band released a programme in 1985 called VideoWorks and in 1986, signed a licensing deal with Apple to put an "interactive guided tour" disc created with the VideoWorks run-time player into every Macintosh shipped.</p>
+<p>VideoWorks required a "Macintosh with at least 128k" and "although VideoWorks will work satisfactorily with just the Macintosh's internal drive, a second (external) drive will help avoid a lot of disc swapping". VideoWorks also included some fantastic 1-bit 'canned artwork' by Marc Pierce and Mike Saenz, including walk cycles, city scape and (my favourite) a jumping mushroom. VideoWorks 'program design' is credited with Marc Canter, Jay Fenton and Mark Pierce and 'programming' credited to Jay and Dan Sadowski</p>
+<p><img src="/assets/images/videoworks.jpg" border="0" alt="Videoworks box and disks" width="460" height="340" /></p>
+<p>In 1987, when the first colour Macs started shipping (and hard drives were more common), Macromind released VideoWorks II (with colour!). VideoWorks developed into "VideoWorks Interactive" which had a language modelled after basic. Although it was never got out of "beta" status, it was licenced to various people, including Apple which continued to use it for their "Guided Tours" which were installed on all Macs that were sold. In 1987, Macromedia creates 2nd-ever Mac CD-ROM with VideoWorks animations (Apple had done the first).</p>
+<p>Like all rock and roll bands (except perhaps the Rolling Stones), the MacroMind software rock and roll band broke up. Mark Pierce was gone within a year (he went on to do the legendary Macintosh game <a href="http://en.wikipedia.org/wiki/Dark_Castle">Dark Castle</a>, released in 1986). Jay stayed on for almost two years before joining Alan Kay to work on an Apple funded education research project called Vivarium. As Roger Jones puts it:</p>
+<blockquote>
+<p>There was a lot of energy in the early days. Marc, despite his peccadilloes, had the ability to inspire us and instill a sense that what we were doing was ground breaking work, we were changing the world. The command hierarchy was pretty flat, we were all in it together... The office at 410 Townsend was one big room where everyone worked elbow to elbow on vinyl topped bingo tables laid end to end. I think the space had been a garment factory before <span class="caps">MM.</span> We rode up to the office in a scary freight elevator that made loud banging noises on the occasions when it functioned. But despite the oppressive conditions those 40 hours days seemed to fly by. It was always fun to go to work.<sup class="footnote"><a href="#fn6">6</a></sup></p>
+</blockquote>
+<h3>Macromind Director (1988-1992)</h3>
+<p><img src="/assets/images/DSC00034.jpg" border="0" alt="Macromind Director box and manuals" width="460" height="443" /></p>
+<p>In 1988, 'VideoWorks Interactive Pro' becomes Director 1.0. John (JT) Thompson and Erik Neumann replaced the original Tiny Basic scripting language by Jamie Fenton with the Lingo Scripting engine. With the release of Director 2.0 (1990), JT said:</p>
+<blockquote>
+<p>At that point I was researching object orientness in general - SmallTalk, Objective C - and I had background in <span class="caps">LISP </span>in terms of the kind of things that you can do interpretively, encapsulate data, recursion, that kind of stuff. So those ideas got synthesized into Lingo and XObjects<sup class="footnote"><a href="#fn1">1</a></sup></p>
+</blockquote>
+<p>Around this period, Videoworks/Director was being used to create the computer graphic displays for Star Trek: The Next Generation<sup class="footnote"><a href="#fn2">2</a></sup>, and the 'multimedia' boom was just about to take off.</p>
+<p><img src="/assets/images/Director2.gif" border="0" alt="Director 2" width="398" height="298" /><br /> <br /> <span class="caption">Director 2</span></p>
+<p class="figure"><img src="/assets/images/Director2_Cast.gif" border="0" alt="Director 2 cast" width="445" height="69" /><br /> <br /><span class="caption">Director 2 Cast</span></p>
+<p>In 1991 (or 92). Director 3 was released. Although Director 3.0 was still a Mac only authoring environment, Macintosh Director movie files could be converted (using "Gaffer") for playback on Windows 3.1 with "DFW" (Director for Windows). The were also players for other Operating systems such as</p>
+<ul>
+<li>OS/2 (a joint project with <span class="caps">IBM </span>who sent a group of engineers to <span class="caps">MACR </span>to work on it)</li>
+<li>Personal <span class="caps">IRIS.</span></li>
+<li>fm townes</li>
+<li>3DO player</li>
+<li>os9 david player (early set top box os)</li>
+</ul>
+<p>With the upgrade to version 3.1.3 (1993) - arguably Director's most stable release ever - Macromind Director became "Macromedia Director" and gained support for a new and exciting technology from Apple called Quicktime.</p>
+<p class="figure"><img class="captioned" src="/assets/images/About_Director_3.gif" border="0" alt="Director 3 About Box" width="346" height="180" /><br /><span class="caption">Director 3 About Box</span></p>
+<h3>A near death experience</h3>
+<p>The original windows player port of Director was was done by an outside company and "was buggy as hell". It languished for months in QA and seemed to have stalled. This was in 1988-8, in the wonderful days of Win 3.0 and <span class="caps">WFWG.</span> Finally two programmers were brought in house to get things moving: David Jennings and Greggy Yachuk. They squashed hundreds of bugs and were able to get the product into a shippable state. Meanwhile, Macromind founder, Marc Cantor, was deposed, and new management came in just prior to Director 3.0 being shipped.</p>
+<p>The new <span class="caps">CEO </span>called a company meeting and announced that 3.0 was the final version of Director and the company was dropping Mac development (because "Mac was dead") and shifting focus to windows business presentation tools (Action!). Prevailing logic at the time was that director was hopelessly Mac centric and the <span class="caps">DPW </span>experience suggested that it would be impossible to port to Win. Bolstered by his success with <span class="caps">DPW,</span> David Jennings went to management and against all odds convinced them that it was possible to put Director on windows. You could say that he saved Director from its near death experience.<sup class="footnote"><a href="#fn5">5</a></sup></p>
+<h3>Macromedia Director (1993-2005)</h3>
+<p class="figure_left"><img src="/assets/images/D4Iconsx4.gif" border="0" alt="Director 4 Icons" width="400" height="62" /> <br /> In 1992, Wolfenstein 3D is released. But this significant event was soon overshadowed by the release of Director 4.0 in at the start of 1994. For the first time the authoring environment and files were cross-platform (Mac and Windows). Lingo was vastly improved and now featured lists and parent scripts (as a replacement for "factories") [cite]. XObjs and <span class="caps">XCMD</span>s provided further extensions. Updates to Director 4 included:</p>
+<ul>
+<li><span class="caps">D4.01</span>- the PowerMac update (late April)</li>
+<li><span class="caps">D4.03 </span>- Win-only (August) and the first Director Authoring version to run under Windows</li>
+<li><span class="caps">D4.04 </span>- unifying release and the last floppy release (18 floppys!)</li>
+</ul>
+<p>The "multimedia" hype is now in full swing. Myst is a big seller and 'multimedia CD-Roms' are selling in shops. Bill Gates announces the licensing of Director player. Marc Canter said that this " was a trip - as I knew he didn't really get the ramifications of building animation into Windows".<sup class="footnote"><a href="#fn3">3</a></sup> Marc had been a strong advocate of OS level support for playback and worked hard to get the MS deal done. He thought that animation should be an OS level data type like text, sound and images. Marc's successor thought that system level support (in essence writing parts of the OS) was too grandiose for such a small company and relegated the system players to the back burner where they quietly died.</p>
+<h4>Shockwave arrives</h4>
+<p>In April 1995, Marc Canter made the prophetic observation that as broadband infrastrcture got put in place,</p>
+<blockquote>
+<p>it becomes increasingly more apparent that CD-ROM is not the only form for delivery for multimedia content. Various forms of broadband distribution will come into place throughout the world this century, and Director will form a bridge across these platforms to guarantee compatibility and scalability of your creative work.<sup class="footnote"><a href="#fn8">8</a></sup></p>
+</blockquote>
+<p>In December 1995, Shockwave appeared for the first time when Macromedia made the "first public demonstration of technology that allows computer users to run video movies created using its Director animation program without the jerkiness typically associated with computer video".<sup class="footnote"><a href="#fn4">4</a></sup> Shockwave files were made with a programme called "Afterburner".</p>
+<p class="figure_left"><img src="/assets/images/D5Icon.gif" border="0" alt="Director 5 Icon" width="32" height="32" /> Director 5</p>
+<p>In 1996, Director 5 is released (<a href="/assets/images/D5screengrab.jpg">view screengrab</a>). This new version introduced <span class="caps">MOA </span>and Xtras, as well as new features such as the debugger, watcher and multiple casts (previously, all movies had a single internal cast - assets were shared using a special movied called <span class="caps">SHARED.DIR</span>). There were a significant number of new lingo commands and constructs (such as case statements).</p>
+<p>Meanwhile. a company called 'FutureWave' had developed a drawing application called "SmartSketch" for use on pen computers. This programme developed into "FutureSplash Animator", a vector-based animation programme designed for the Internet. This software had been offered to Adobe and Fractal Design without success, but eventually Macromedia took an interest and purchased the company. In 1996, Flash 1.0 was released.</p>
+<p class="figure_left"><img src="/assets/images/D6.gif" border="0" alt="Director 6 Icon" width="32" height="32" /> Director 6</p>
+<p>In 1997, Director 6 is released - The "Director Multimedia Studio" (view screengrab). This new version vastly improves the 'sprite' construct and introduced 'behaviours' and integrated Shockwave support (the Afterburner Xtra was no longer required). Director 6.5 was a much anticipated update (to fix problems caused by the release of Quicktime 3).</p>
+<p class="figure_left"><img src="/assets/images/D7.gif" border="0" alt="Director 7 Icon" width="32" height="32" /> Director 7</p>
+<p>In 1998 Director 7 is released. By this stage, Macromedia seemed convinced that Director's future lay with the Internet. Director was released as part of the "Shockwave Internet Studio". Director 7 was billed as having been "rebuilt from the ground up", the culmination of "five years of development". Prior to Director 7, there were different version of the code for mac, pc, projector, authoring and shockwave. As Buzz Kettles explained:</p>
+<blockquote>
+<p><span class="caps">DPW </span>(Director Player for Windows) was the original core code for all those 'other platform' playback engines (originally 'other' meant non-Mac). This playback-only code got fleshed out feature by feature until it was then used to build the Shockwave Player and then became a standalone playback engine that the Director Authoring UI could be grafted onto in order to create Director 7... So the so-called 'Director 7' rewrite actually began during Director 3.<sup class="footnote"><a href="#fn7">7</a></sup></p>
+</blockquote>
+<p>New features included <span class="caps">RGB </span>support, 1000 sprite channels, sprite rotation and skewing, embedded fonts and vector shapes. Director 7 also saw the introduction of dot syntax and the arrival of the Multiuser Server. Despite these many new features and enhancements, Director 7 was seen by some as a bit of disappointment (bloated, buggy and the playback engine was slow compared to Director 6.5).</p>
+<p>About now the 'multimedia' star began to dim as the Internet becomes the Next Big Thing. The Flash movie, with its smaller ubiquitous plugin (and cheaper authoring environment) seems better suited to the Internet and Macromedia appears to divert more resources away from Director to the new wunderkid.</p>
+<p class="figure_left"><img src="/assets/images/D8.gif" border="0" alt="Director 8 Icon" width="32" height="32" /> Drector 8 and 8.5</p>
+<p>In 2000 Director 8 is released and is a marked improvement over version 7. Although version 8 introduced much less new features than were introduced with version 7, it was much more stable and reliable. Version 8 did introduce some improvements to the authoring environent such as linked scripts, lockable sprites and guides as well as some new features such as imaging lingo. A new audio engine was introduced. Despite some welcome new features, the audio engine no longer enjoyed the priority it once had and now sounds would stutter and stop more easily.</p>
+<p>Director 8.5 was a significant update. It introduced Flash 5 compatibility and introduced support for interfactive 3D assets. The Multiuser Server got an upgrade to version 3.0 sometime around this period.</p>
+<p class="figure_left"><img src="/assets/images/DMX.gif" border="0" alt="Director MX Icon" width="32" height="32" /> Director MX</p>
+<p>At the end of 2002, Director MX (aka version 9) is released. This version featured OS X compatibility, Flash 6 compatibility and some authoring enhancements. DirectorMX file format is the same as Director 8.5.</p>
+<p>About this time, Macromedia announced the death of the Multiuser Server and the Multiuser Xtra (to be replaced by the Flash Communication Server and nothing, respectively).</p>
+<h4>Director MX 2004</h4>
+<p><img class="f_left" src="/assets/images/DMX2004.jpg" border="0" width="148" height="144" />Early 2004, Director MX 2004 (aka version 10?) is released. A much more significant update than the earlier "MX" version upgrade, one of the more interesting new features is the introduction of a JavaScript syntax as an alternative to Lingo, and the introducton of the new "Document object model" (DOM).</p>
+<p>A reason behind the introduction of Javascript may have been to open up Director and make it more accessible to the Flash coders and others used to Javasript's syntax. If this was the strategy, then it probably hasn't succeeded - probably because most support (tutorials and sample files) are in Lingo. Although Javascript in Director is far from perfect (it is slower than lingo, has some nasty bugs such as setPref crashing Director, and there is a general lack of useful documentation on using Javascript in Director) - there are some reasons to use it - at least to provide some functionality not otherwise available in Lingo (native regular expressions, for example).</p>
+<p>The new DOM has meant that most scripting functionality can now be accessed via 'Core objects' that include the Director player engine, movie windows, sprites, sounds, and so on. Whilst in the old days, when lingo was meant to be 'easy to read' and 'natural', you would write</p>
+<pre><code>if the name of member of sprite 1 ="foo"</code> then go to the frame</pre>
+<p>Now, in the new world of &uuml;ber-geek cool, you can write</p>
+<pre><code>if (_movie.sprite(1).member.name</code> = "foo") then _movie.go(_movie.frame)</pre>
+<p>Well... there really are some advantages to the DOM model. Linked Director movies (LDMs) have always been a troubled part of Director's feature set. The new DOM goes a small step in the right direction towards adding some layer of sanity and predictability to inter-objection communiction between objects in a nested movie and those objects elsewhere.</p>
+<h3>Adobe Director (2005-)</h3>
+<p>On the 18th of April, 2005, Adobe announced that it had aquired Macromedia (at US$3.4 billion - similar to a typical 'multimedia' budget in the late nineties). This sale was completed in December, 2005 and Director became <a href="http://www.adobe.com/products/director/">Adobe Director</a>. Predictably, this generated the usual 'is Director dead' type panic on the various lists and forums, as well as the occasional optimistic comment that maybe Adobe might be a good new owner. Certainly, PDF technology would be a great enhancement for Director (text handling and printing have always been two of Director's greatest weaknesss).</p>
+<p>On March 14, 2006, Shockwave Player 10.1.1r16 was released (authoring version of the update released shortly after). The main feature of this free update was a new Flash 8 Asset Xtra that allows the use of Flash 8 authored SWF assets.</p>
+<h3>Adobe Director 11</h3>
+<p>&nbsp;</p>
+<p class="figure_left"><img src="/assets/images/D11.jpg" border="0" alt="Director 11 Icon" width="124" height="119" />Adobe Director 11</p>
+<p>In Late Feburary, 2008, Adobe releases Director 11. The most significant change introduced is that Director is now unicode compliant. This one feature has meant that Director needed a significant re-build, and the development was moved to India where now more than "40 engineers are actively working on Director". Developer disappointment with the lack of new features were countered with mention of various secret 'road maps' and 'white papers' apparently pointing to an exciting future for Director 12 and onwards built upon this new updated base.</p>
+<p>Director 11 (and Shockwave 11) also became universal binaries on the Mac. This, combined with making Director Unicode-compliant meant that non-Unicode-compliant xtras and all Mac Xtras will no longer work correctly with Director 11. This change meant that Xtra developers had to do some work to keep their Xtras compatible, and a few- such as the very popular OS Controls Xtra - announced that they would not be updated.</p>
+<p>&nbsp;</p>
+<h3><span class="figure_left">Adobe Director 11</span>.5</h3>
+<p>In March 2009, Adobe release Adobe releases Director 11.5, a vast improvement over Director 11. New features include</p>
+<ul>
+<li>new sound engine which included a new 'mixer' object and filters.</li>
+<li>'streaming' 5.1 audio</li>
+<li>new byteArray member type and set of functions</li>
+<li>some fixes to the new text engine</li>
+</ul>
+<h3>Adobe Director 12</h3>
+<p><span>Director 12 was released&nbsp;February 11, 2013.</span></p>
+<p>&nbsp;</p>
+<hr />
+<p id="fn1" class="footnote"><sup>1</sup> This quote was taken from http://www.johnhenry1.com/index.html, but the site seems to be gone.</p>
+<p id="fn2" class="footnote"><sup>2</sup> See this <a href="http://www.treknation.com/interviews/okuda_qa.shtml">interview with Mike and Denise Okuda</a>, scenic artists on 'Star Trek: Voyager'</p>
+<p id="fn3" class="footnote"><sup>3</sup> These quotes were taken from the older www.canter.com site, which is no more. Hopefully Marc will restore some of these interesting 'back-stories' on <a href="http://marc.blogs.it">his new site</a>.</p>
+<p id="fn4" class="footnote"><sup>4</sup> See <a href="http://groups.google.com/groups?hl=en&amp;lr=&amp;ie=UTF-8&amp;selm=47ggml%24nfn%40newsbf02.news.aol.com">this report</a> from Reuter</p>
+<p id="fn5" class="footnote"><sup>5</sup> From a thread on a director related list in Feb 2005, an edited version which can be found on Rhizome Raw, a net.art list.</p>
+<p id="fn6" class="footnote"><sup>6</sup> From a thread on a director related list in Feb 2005, an edited version which can be found on Rhizome Raw, a net.art list.</p>
+<p id="fn7" class="footnote"><sup>7</sup> From a thread on a director related list in Feb 2005, an edited version which can be found on Rhizome Raw, a net.art list.</p>
+<p id="fn8" class="footnote"><sup>8</sup> From the foreward in <em>Macromedia Director Lingo Workshop</em>, by JT Thompson and Sam Gottlieb (1995, Hayden Books).</p>
+            <div class="articlefootnote"> 
+                <div class="articledetails">First published 21/03/2005 </div>
+            </div>
+			 <div><a href="#comments" data-context_id="99">View Comments</a></div>
+     </div>
+     <div class="article">
+            <h2>An Unofficial Brief History of Director</h2>
+       
+            <p class="figure"><img class="captioned" src="/assets/images/Boxes2.jpg" border="0" alt="Packaging from the glory days (pre-ESD" width="520" height="300" /> <br /> <br />Packaging from the glory days (pre-ESD)</p>
+<h3>The Videoworks Years (1984-1988)</h3>
+<p class="figure_left"><img src="/assets/images/Videoworks.gif" border="0" alt="Videoworks Icon" width="32" height="32" /></p>
+<p><a href="http://www.fentonia.com/bio/">Jay Fenton</a>, <a href="http://blog.broadbandmechanics.com/">Marc Canter</a> and <a href="http://www.superhappyfunfun.com/mark.htm">Mark Pierce</a> had worked together at Bally Games in Chicago. In the spring of 1984 Marc got angel funding from his father-in-law and together they formed formed a company called MacroMind. As Marc puts it, MacroMind was "a software rock and roll band; a programmer, an artist and Marc, the musician and manager ". This rock and roll band released a programme in 1985 called VideoWorks and in 1986, signed a licensing deal with Apple to put an "interactive guided tour" disc created with the VideoWorks run-time player into every Macintosh shipped.</p>
+<p>VideoWorks required a "Macintosh with at least 128k" and "although VideoWorks will work satisfactorily with just the Macintosh's internal drive, a second (external) drive will help avoid a lot of disc swapping". VideoWorks also included some fantastic 1-bit 'canned artwork' by Marc Pierce and Mike Saenz, including walk cycles, city scape and (my favourite) a jumping mushroom. VideoWorks 'program design' is credited with Marc Canter, Jay Fenton and Mark Pierce and 'programming' credited to Jay and Dan Sadowski</p>
+<p><img src="/assets/images/videoworks.jpg" border="0" alt="Videoworks box and disks" width="460" height="340" /></p>
+<p>In 1987, when the first colour Macs started shipping (and hard drives were more common), Macromind released VideoWorks II (with colour!). VideoWorks developed into "VideoWorks Interactive" which had a language modelled after basic. Although it was never got out of "beta" status, it was licenced to various people, including Apple which continued to use it for their "Guided Tours" which were installed on all Macs that were sold. In 1987, Macromedia creates 2nd-ever Mac CD-ROM with VideoWorks animations (Apple had done the first).</p>
+<p>Like all rock and roll bands (except perhaps the Rolling Stones), the MacroMind software rock and roll band broke up. Mark Pierce was gone within a year (he went on to do the legendary Macintosh game <a href="http://en.wikipedia.org/wiki/Dark_Castle">Dark Castle</a>, released in 1986). Jay stayed on for almost two years before joining Alan Kay to work on an Apple funded education research project called Vivarium. As Roger Jones puts it:</p>
+<blockquote>
+<p>There was a lot of energy in the early days. Marc, despite his peccadilloes, had the ability to inspire us and instill a sense that what we were doing was ground breaking work, we were changing the world. The command hierarchy was pretty flat, we were all in it together... The office at 410 Townsend was one big room where everyone worked elbow to elbow on vinyl topped bingo tables laid end to end. I think the space had been a garment factory before MM. We rode up to the office in a scary freight elevator that made loud banging noises on the occasions when it functioned. But despite the oppressive conditions those 40 hours days seemed to fly by. It was always fun to go to work.<sup class="footnote"><a href="#fn6">6</a></sup></p>
+</blockquote>
+<h3>Macromind Director (1988-1992)</h3>
+<p><img src="/assets/images/DSC00034.jpg" border="0" alt="Macromind Director box and manuals" width="460" height="443" /></p>
+<p>In 1988, 'VideoWorks Interactive Pro' becomes Director 1.0. John (JT) Thompson and Erik Neumann replaced the original Tiny Basic scripting language by Jamie Fenton with the Lingo Scripting engine. With the release of Director 2.0 (1990), JT said:</p>
+<blockquote>
+<p>At that point I was researching object orientness in general - SmallTalk, Objective C - and I had background in LISP in terms of the kind of things that you can do interpretively, encapsulate data, recursion, that kind of stuff. So those ideas got synthesized into Lingo and XObjects<sup class="footnote"><a href="#fn1">1</a></sup></p>
+</blockquote>
+<p>Around this period, Videoworks/Director was being used to create the computer graphic displays for Star Trek: The Next Generation<sup class="footnote"><a href="#fn2">2</a></sup>, and the 'multimedia' boom was just about to take off.</p>
+<p><img src="/assets/images/Director2.gif" border="0" alt="Director 2" width="398" height="298" /><br /> <br /> Director 2</p>
+<p class="figure"><img src="/assets/images/Director2_Cast.gif" border="0" alt="Director 2 cast" width="445" height="69" /><br /> <br />Director 2 Cast</p>
+<p>In 1991 (or 92). Director 3 was released. Although Director 3.0 was still a Mac only authoring environment, Macintosh Director movie files could be converted (using "Gaffer") for playback on Windows 3.1 with "DFW" (Director for Windows). The were also players for other Operating systems such as</p>
+<ul>
+<li>OS/2 (a joint project with IBM who sent a group of engineers to MACR to work on it)</li>
+<li>Personal IRIS.</li>
+<li>fm townes</li>
+<li>3DO player</li>
+<li>os9 david player (early set top box os)</li>
+</ul>
+<p>With the upgrade to version 3.1.3 (1993) - arguably Director's most stable release ever - Macromind Director became "Macromedia Director" and gained support for a new and exciting technology from Apple called Quicktime.</p>
+<p class="figure"><img class="captioned" src="/assets/images/About_Director_3.gif" border="0" alt="Director 3 About Box" width="346" height="180" /><br />Director 3 About Box</p>
+<h3>A near death experience</h3>
+<p>The original windows player port of Director was was done by an outside company and "was buggy as hell". It languished for months in QA and seemed to have stalled. This was in 1988-8, in the wonderful days of Win 3.0 and WFWG. Finally two programmers were brought in house to get things moving: David Jennings and Greggy Yachuk. They squashed hundreds of bugs and were able to get the product into a shippable state. Meanwhile, Macromind founder, Marc Cantor, was deposed, and new management came in just prior to Director 3.0 being shipped.</p>
+<p>The new CEO called a company meeting and announced that 3.0 was the final version of Director and the company was dropping Mac development (because "Mac was dead") and shifting focus to windows business presentation tools (Action!). Prevailing logic at the time was that director was hopelessly Mac centric and the DPW experience suggested that it would be impossible to port to Win. Bolstered by his success with DPW, David Jennings went to management and against all odds convinced them that it was possible to put Director on windows. You could say that he saved Director from its near death experience.<sup class="footnote"><a href="#fn5">5</a></sup></p>
+<h3>Macromedia Director (1993-2005)</h3>
+<p class="figure_left"><img src="/assets/images/D4Iconsx4.gif" border="0" alt="Director 4 Icons" width="400" height="62" /> <br /> In 1992, Wolfenstein 3D is released. But this significant event was soon overshadowed by the release of Director 4.0 in at the start of 1994. For the first time the authoring environment and files were cross-platform (Mac and Windows). Lingo was vastly improved and now featured lists and parent scripts (as a replacement for "factories") [cite]. XObjs and XCMDs provided further extensions. Updates to Director 4 included:</p>
+<ul>
+<li>D4.01- the PowerMac update (late April)</li>
+<li>D4.03 - Win-only (August) and the first Director Authoring version to run under Windows</li>
+<li>D4.04 - unifying release and the last floppy release (18 floppys!)</li>
+</ul>
+<p>The "multimedia" hype is now in full swing. Myst is a big seller and 'multimedia CD-Roms' are selling in shops. Bill Gates announces the licensing of Director player. Marc Canter said that this " was a trip - as I knew he didn't really get the ramifications of building animation into Windows".<sup class="footnote"><a href="#fn3">3</a></sup> Marc had been a strong advocate of OS level support for playback and worked hard to get the MS deal done. He thought that animation should be an OS level data type like text, sound and images. Marc's successor thought that system level support (in essence writing parts of the OS) was too grandiose for such a small company and relegated the system players to the back burner where they quietly died.</p>
+<h4>Shockwave arrives</h4>
+<p>In April 1995, Marc Canter made the prophetic observation that as broadband infrastrcture got put in place,</p>
+<blockquote>
+<p>it becomes increasingly more apparent that CD-ROM is not the only form for delivery for multimedia content. Various forms of broadband distribution will come into place throughout the world this century, and Director will form a bridge across these platforms to guarantee compatibility and scalability of your creative work.<sup class="footnote"><a href="#fn8">8</a></sup></p>
+</blockquote>
+<p>In December 1995, Shockwave appeared for the first time when Macromedia made the "first public demonstration of technology that allows computer users to run video movies created using its Director animation program without the jerkiness typically associated with computer video".<sup class="footnote"><a href="#fn4">4</a></sup> Shockwave files were made with a programme called "Afterburner".</p>
+<p class="figure_left"><img src="/assets/images/D5Icon.gif" border="0" alt="Director 5 Icon" width="32" height="32" /> Director 5</p>
+<p>In 1996, Director 5 is released (<a href="/assets/images/D5screengrab.jpg">view screengrab</a>). This new version introduced MOA and Xtras, as well as new features such as the debugger, watcher and multiple casts (previously, all movies had a single internal cast - assets were shared using a special movied called SHARED.DIR). There were a significant number of new lingo commands and constructs (such as case statements).</p>
+<p>Meanwhile. a company called 'FutureWave' had developed a drawing application called "SmartSketch" for use on pen computers. This programme developed into "FutureSplash Animator", a vector-based animation programme designed for the Internet. This software had been offered to Adobe and Fractal Design without success, but eventually Macromedia took an interest and purchased the company. In 1996, Flash 1.0 was released.</p>
+<p class="figure_left"><img src="/assets/images/D6.gif" border="0" alt="Director 6 Icon" width="32" height="32" /> Director 6</p>
+<p>In 1997, Director 6 is released - The "Director Multimedia Studio" (view screengrab). This new version vastly improves the 'sprite' construct and introduced 'behaviours' and integrated Shockwave support (the Afterburner Xtra was no longer required). Director 6.5 was a much anticipated update (to fix problems caused by the release of Quicktime 3).</p>
+<p class="figure_left"><img src="/assets/images/D7.gif" border="0" alt="Director 7 Icon" width="32" height="32" /> Director 7</p>
+<p>In 1998 Director 7 is released. By this stage, Macromedia seemed convinced that Director's future lay with the Internet. Director was released as part of the "Shockwave Internet Studio". Director 7 was billed as having been "rebuilt from the ground up", the culmination of "five years of development". Prior to Director 7, there were different version of the code for mac, pc, projector, authoring and shockwave. As Buzz Kettles explained:</p>
+<blockquote>
+<p>DPW (Director Player for Windows) was the original core code for all those 'other platform' playback engines (originally 'other' meant non-Mac). This playback-only code got fleshed out feature by feature until it was then used to build the Shockwave Player and then became a standalone playback engine that the Director Authoring UI could be grafted onto in order to create Director 7... So the so-called 'Director 7' rewrite actually began during Director 3.<sup class="footnote"><a href="#fn7">7</a></sup></p>
+</blockquote>
+<p>New features included RGB support, 1000 sprite channels, sprite rotation and skewing, embedded fonts and vector shapes. Director 7 also saw the introduction of dot syntax and the arrival of the Multiuser Server. Despite these many new features and enhancements, Director 7 was seen by some as a bit of disappointment (bloated, buggy and the playback engine was slow compared to Director 6.5).</p>
+<p>About now the 'multimedia' star began to dim as the Internet becomes the Next Big Thing. The Flash movie, with its smaller ubiquitous plugin (and cheaper authoring environment) seems better suited to the Internet and Macromedia appears to divert more resources away from Director to the new wunderkid.</p>
+<p class="figure_left"><img src="/assets/images/D8.gif" border="0" alt="Director 8 Icon" width="32" height="32" /> Drector 8 and 8.5</p>
+<p>In 2000 Director 8 is released and is a marked improvement over version 7. Although version 8 introduced much less new features than were introduced with version 7, it was much more stable and reliable. Version 8 did introduce some improvements to the authoring environent such as linked scripts, lockable sprites and guides as well as some new features such as imaging lingo. A new audio engine was introduced. Despite some welcome new features, the audio engine no longer enjoyed the priority it once had and now sounds would stutter and stop more easily.</p>
+<p>Director 8.5 was a significant update. It introduced Flash 5 compatibility and introduced support for interfactive 3D assets. The Multiuser Server got an upgrade to version 3.0 sometime around this period.</p>
+<p class="figure_left"><img src="/assets/images/DMX.gif" border="0" alt="Director MX Icon" width="32" height="32" /> Director MX</p>
+<p>At the end of 2002, Director MX (aka version 9) is released. This version featured OS X compatibility, Flash 6 compatibility and some authoring enhancements. DirectorMX file format is the same as Director 8.5.</p>
+<p>About this time, Macromedia announced the death of the Multiuser Server and the Multiuser Xtra (to be replaced by the Flash Communication Server and nothing, respectively).</p>
+<h4>Director MX 2004</h4>
+<p><img class="f_left" src="/assets/images/DMX2004.jpg" border="0" width="148" height="144" />Early 2004, Director MX 2004 (aka version 10?) is released. A much more significant update than the earlier "MX" version upgrade, one of the more interesting new features is the introduction of a JavaScript syntax as an alternative to Lingo, and the introducton of the new "Document object model" (DOM).</p>
+<p>A reason behind the introduction of Javascript may have been to open up Director and make it more accessible to the Flash coders and others used to Javasript's syntax. If this was the strategy, then it probably hasn't succeeded - probably because most support (tutorials and sample files) are in Lingo. Although Javascript in Director is far from perfect (it is slower than lingo, has some nasty bugs such as setPref crashing Director, and there is a general lack of useful documentation on using Javascript in Director) - there are some reasons to use it - at least to provide some functionality not otherwise available in Lingo (native regular expressions, for example).</p>
+<p>The new DOM has meant that most scripting functionality can now be accessed via 'Core objects' that include the Director player engine, movie windows, sprites, sounds, and so on. Whilst in the old days, when lingo was meant to be 'easy to read' and 'natural', you would write</p>
+<pre><code>if the name of member of sprite 1 ="foo"</code> then go to the frame</pre>
+<p>Now, in the new world of &uuml;ber-geek cool, you can write</p>
+<pre><code>if (_movie.sprite(1).member.name</code> = "foo") then _movie.go(_movie.frame)</pre>
+<p>Well... there really are some advantages to the DOM model. Linked Director movies (LDMs) have always been a troubled part of Director's feature set. The new DOM goes a small step in the right direction towards adding some layer of sanity and predictability to inter-objection communiction between objects in a nested movie and those objects elsewhere.</p>
+<h3>Adobe Director (2005-)</h3>
+<p>On the 18th of April, 2005, Adobe announced that it had aquired Macromedia (at US$3.4 billion - similar to a typical 'multimedia' budget in the late nineties). This sale was completed in December, 2005 and Director became <a href="http://www.adobe.com/products/director/">Adobe Director</a>. Predictably, this generated the usual 'is Director dead' type panic on the various lists and forums, as well as the occasional optimistic comment that maybe Adobe might be a good new owner. Certainly, PDF technology would be a great enhancement for Director (text handling and printing have always been two of Director's greatest weaknesss).</p>
+<p>On March 14, 2006, Shockwave Player 10.1.1r16 was released (authoring version of the update released shortly after). The main feature of this free update was a new Flash 8 Asset Xtra that allows the use of Flash 8 authored SWF assets.</p>
+<h3>Adobe Director 11</h3>
+<p>&nbsp;</p>
+<p class="figure_left"><img src="/assets/images/D11.jpg" border="0" alt="Director 11 Icon" width="124" height="119" />Adobe Director 11</p>
+<p>In Late Feburary, 2008, Adobe releases Director 11. The most significant change introduced is that Director is now unicode compliant. This one feature has meant that Director needed a significant re-build, and the development was moved to India where now more than "40 engineers are actively working on Director". Developer disappointment with the lack of new features were countered with mention of various secret 'road maps' and 'white papers' apparently pointing to an exciting future for Director 12 and onwards built upon this new updated base.</p>
+<p>Director 11 (and Shockwave 11) also became universal binaries on the Mac. This, combined with making Director Unicode-compliant meant that non-Unicode-compliant xtras and all Mac Xtras will no longer work correctly with Director 11. This change meant that Xtra developers had to do some work to keep their Xtras compatible, and a few- such as the very popular OS Controls Xtra - announced that they would not be updated.</p>
+<p>&nbsp;</p>
+<h3>Adobe Director 11.5</h3>
+<p>In March 2009, Adobe release Adobe releases Director 11.5, a vast improvement over Director 11. New features include</p>
+<ul>
+<li>new sound engine which included a new 'mixer' object and filters.</li>
+<li>'streaming' 5.1 audio</li>
+<li>new byteArray member type and set of functions</li>
+<li>some fixes to the new text engine</li>
+</ul>
+<h3>Adobe Director 12</h3>
+<p>Director 12 was released&nbsp;February 11, 2013.</p>
+<h3>The end</h3>
+<p>Jan 27, 2017 ... and its all over. Adobe announces that it "will no longer be selling and supporting Adobe Director ..., &nbsp; Sale of Adobe Director... will stop on February 1, 2017. We will also stop ongoing updates and support for Adobe Shockwave on Mac devices on March 14th after the last release of the product."</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p id="fn1" class="footnote"><sup>1</sup> This quote was taken from http://www.johnhenry1.com/index.html, but the site seems to be gone.</p>
+<p id="fn2" class="footnote"><sup>2</sup> See this <a href="http://www.treknation.com/interviews/okuda_qa.shtml">interview with Mike and Denise Okuda</a>, scenic artists on 'Star Trek: Voyager'</p>
+<p id="fn3" class="footnote"><sup>3</sup> These quotes were taken from the older www.canter.com site, which is no more. Hopefully Marc will restore some of these interesting 'back-stories' on <a href="http://marc.blogs.it">his new site</a>.</p>
+<p id="fn4" class="footnote"><sup>4</sup> See <a href="http://groups.google.com/groups?hl=en&amp;lr=&amp;ie=UTF-8&amp;selm=47ggml%24nfn%40newsbf02.news.aol.com">this report</a> from Reuter</p>
+<p id="fn5" class="footnote"><sup>5</sup> From a thread on a director related list in Feb 2005, an edited version which can be found on Rhizome Raw, a net.art list.</p>
+<p id="fn6" class="footnote"><sup>6</sup> From a thread on a director related list in Feb 2005, an edited version which can be found on Rhizome Raw, a net.art list.</p>
+<p id="fn7" class="footnote"><sup>7</sup> From a thread on a director related list in Feb 2005, an edited version which can be found on Rhizome Raw, a net.art list.</p>
+<p id="fn8" class="footnote"><sup>8</sup> From the foreward in <em>Macromedia Director Lingo Workshop</em>, by JT Thompson and Sam Gottlieb (1995, Hayden Books).</p>
+            <div class="articlefootnote"> 
+                <div class="articledetails">First published 21/03/2005 </div>
+            </div>
+			 
+     </div>
+         
+     
+
+                    </div>
+                </div>
+
+                <div class="content-secondary " >
+                    <div id="sectionNav" class="nav-side-menu">
+                        <ul class="nav verical-nav"><li><a href="/articles/papers" >Papers</a><ul class="childen"><li><a href="/articles/papers/interaction_design" >Interaction Design</a></li></ul></li>
+ <li><a href="/articles/lingoists_toolbox" >A Lingoist's Toolbox</a><ul class="childen"><li><a href="/articles/essential_xtras" >Essential Xtras</a></li>
+ <li><a href="/articles/standard_practices" >Standard Practices</a></li>
+ <li><a href="/articles/useful_xtras" >Useful Xtras</a></li>
+ <li><a href="/articles/flightcheck_xtras" >Xtra Checkup</a></li></ul></li>
+ <li><a href="/articles/history" >Brief History of Director</a><ul class="childen"><li><a href="/articles/a_brief_history_of_computer_programming" >A brief history of programming</a></li></ul></li>
+ <li><a href="/articles/destroying_miaws" >Destroying MIAWs</a></li>
+ <li><a href="/articles/iloop" >Illustrated OOP Primer</a><ul class="childen"><li><a href="/articles/iloop/key_concepts" >Key Concepts</a></li>
+ <li><a href="/articles/iloop/creating_objects_with_scripts" >Creating Objects</a></li>
+ <li><a href="/articles/iloop/destroying_objects" >Destroying Objects</a></li>
+ <li><a href="/articles/iloop/sending_messages" >Sending Messages</a></li>
+ <li><a href="/articles/iloop/class_properties" >Class Properties</a></li>
+ <li><a href="/articles/feedreader" >Project 1: RSS Feed Reader</a></li>
+ <li><a href="/articles/feedreader_2" >Project 2: GUI</a></li>
+ <li><a href="/articles/feedreader_3" >Project 3: Enhanced RSS Reader</a></li></ul></li>
+ <li><a href="/articles/slider" >Image Slider</a><ul class="childen"><li><a href="/articles/imageslider/a_basic_slider_script" >A Basic Slider Script</a></li>
+ <li><a href="/articles/imageslider/interacting_with_the_slider_object" >Interacting With The Slider Object</a></li>
+ <li><a href="/articles/imageslider/super_slider_pro" >Super Slider Pro</a></li>
+ <li><a href="/articles/imageslider/loading_local_images" >Loading Local Images into the Slider</a></li>
+ <li><a href="/articles/imageslider/loading_remote_images" >Loading Remote Images into the Slider</a></li></ul></li>
+ <li><a href="/articles/isometric_game" >Isometric And Tiling Games</a><ul class="childen"><li><a href="/articles/isometric_game_1" >Isometric Game - Part 1</a></li>
+ <li><a href="/articles/isometric_game_2" >Isometric Game - Part 2</a></li>
+ <li><a href="/articles/scrolling_tile_game_1" >Scrolling Tile Game - 1</a></li>
+ <li><a href="/articles/scrolling_tile_game_2" >Scrolling Tile Game - 2</a></li>
+ <li><a href="/articles/scrolling_tile_game_part_3" >Scrolling Tile Game - 3</a></li></ul></li>
+ <li><a href="/articles/netoperations" >Network Operations</a><ul class="childen"><li><a href="/articles/shockwave_preloader" >Preloader Script</a></li>
+ <li><a href="/articles/progress_bar_widget" >Progress bar</a></li>
+ <li><a href="/articles/get_and_post" >GET and POST</a></li>
+ <li><a href="/articles/php_and_mysql" >Talking to PHP &amp; MySQL</a></li>
+ <li><a href="/articles/generic_loading_movie" >A Generic Loading Movie</a></li>
+ <li><a href="/articles/embedding-shockwave" >Embedding Shockwave</a></li>
+ <li><a href="/articles/downloading_files" >Downloading Files</a></li></ul></li>
+ <li><a href="/articles/preloading_cast_member" >Preloading from disk</a></li>
+ <li><a href="/articles/notes" >Tips 'n Notes</a><ul class="childen"><li><a href="/articles/javascript_in_director" >Using Javascript</a></li>
+ <li><a href="/articles/using_javascript_more" >Using Javascript 2</a></li>
+ <li><a href="/articles/deleting_objects" >Deleting Objects</a></li>
+ <li><a href="/articles/grouping_sprites" >Grouping Sprites</a></li>
+ <li><a href="/articles/script_types" >Script Types</a></li>
+ <li><a href="/articles/lists" >Tricks with lists</a></li>
+ <li><a href="/articles/comparisons" >Tricks with equality</a></li>
+ <li><a href="/articles/browsers" >Interacting with the browser</a></li></ul></li>
+ <li><a href="/articles/undocumented" >Undocumented Lingo</a></li>
+ <li><a href="/wishlist" >Wishlist and survey</a></li>
+ <li><a href="/articles/activecontent" >Active Content</a></li></ul>
+                    </div>
+                     
+            <form action="/search" method="post" class="well form" id="form-search" role="form" >
+                <div class="input-group">
+                    <label class="sr-only" for="searchInput">Search for</label>
+                    <input name="s"  id="searchInput" class="  form-control " type="search" value=""   placeholder="Search.." />	
+					<span class="input-group-btn">
+                    <button class="btn btn-default" type="submit"><span class="mmlicon mmlicon-search"></span></button> 					</span>
+               </div>
+            </form>
+                    <div class=" contentarea" id="sidenote">
+                        
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <footer class="main-footer">
+            <div class="container">
+            	<div><ul class="page-list list-inline"><li ><a href="/sitemap" title="Link to Sitemap">Sitemap</a></li>
+<li ><a href="/search" title="Link to Search">Search</a></li>
+<li ><a href="/contact" title="Link to Contact">Contact</a></li>
+ </ul></div>
+                <p>&copy; 2006-2016 MeccaMedialight. Site Powered by <a href="http://www.textstem.com/">Textstem 5</a></p>
+                <p>
+                    <a href="#">Back to top</a>
+                </p>
+            </div>
+        </footer>
+    </body>
+</html>

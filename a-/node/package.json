@@ -1,0 +1,18 @@
+{
+  "name": "macr-directory",
+  "version": "1.0.0",
+  "description": "memorabilia for MacroMind/MacroMedia/Adobe Director",
+  "author": "John Henry Thompson",
+  "repository": "https://github.com/jht1900/macr.git",
+  "license": "MIT",
+  "devDependencies": {
+    "yargs": "^1.3.1",
+    "del": "^2.0.2",
+    "mkdirp": "*"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "mkdirp": "^0.5.1",
+    "nunjucks": "^3.0.0"
+  }
+}
