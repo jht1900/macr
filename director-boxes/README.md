@@ -1,284 +1,294 @@
 
-	![d1acknowledgement.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1acknowledgement.jpg)
+![0-bob.jpg](./director-boxes/0-bob.jpg)
 
-	![d1boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1boxback.jpg)
+![0-bobjt.jpg](./director-boxes/0-bobjt.jpg)
 
-	![d1boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1boxfront.jpg)
+![0-jobs.jpg](./director-boxes/0-jobs.jpg)
 
-	![d1boxside.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1boxside.jpg)
+![0-jtmarkjg.jpg](./director-boxes/0-jtmarkjg.jpg)
 
-	![d1copyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1copyrightpage.jpg)
+![README.md](./director-boxes/README.md)
 
-	![d1disks.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1disks.jpg)
+![d1acknowledgement.jpg](./director-boxes/d1acknowledgement.jpg)
 
-	![d1introtostudio.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1introtostudio.jpg)
+![d1boxback.jpg](./director-boxes/d1boxback.jpg)
 
-	![d1overview.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d1overview.jpg)
+![d1boxfront.jpg](./director-boxes/d1boxfront.jpg)
 
-	![d2acknowledgep1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2acknowledgep1.jpg)
+![d1boxside.jpg](./director-boxes/d1boxside.jpg)
 
-	![d2acknowledgep2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2acknowledgep2.jpg)
+![d1copyrightpage.jpg](./director-boxes/d1copyrightpage.jpg)
 
-	![d2boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2boxback.jpg)
+![d1disks.jpg](./director-boxes/d1disks.jpg)
 
-	![d2boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2boxfront.jpg)
+![d1introtostudio.jpg](./director-boxes/d1introtostudio.jpg)
 
-	![d2boxside.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2boxside.jpg)
+![d1overview.jpg](./director-boxes/d1overview.jpg)
 
-	![d2copyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2copyrightpage.jpg)
+![d2acknowledgep1.jpg](./director-boxes/d2acknowledgep1.jpg)
 
-	![d2interactivitymanual.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2interactivitymanual.jpg)
+![d2acknowledgep2.jpg](./director-boxes/d2acknowledgep2.jpg)
 
-	![d2intmanpage6.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2intmanpage6.jpg)
+![d2boxback.jpg](./director-boxes/d2boxback.jpg)
 
-	![d2intmanpage7.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2intmanpage7.jpg)
+![d2boxfront.jpg](./director-boxes/d2boxfront.jpg)
 
-	![d2overviewmanual.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2overviewmanual.jpg)
+![d2boxside.jpg](./director-boxes/d2boxside.jpg)
 
-	![d2studiomanual.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d2studiomanual.jpg)
+![d2copyrightpage.jpg](./director-boxes/d2copyrightpage.jpg)
 
-	![d3.1cdromback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3.1cdromback.jpg)
+![d2interactivitymanual.jpg](./director-boxes/d2interactivitymanual.jpg)
 
-	![d3.1cdromfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3.1cdromfront.jpg)
+![d2intmanpage6.jpg](./director-boxes/d2intmanpage6.jpg)
 
-	![d3acceleratorusersguide.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3acceleratorusersguide.jpg)
+![d2intmanpage7.jpg](./director-boxes/d2intmanpage7.jpg)
 
-	![d3acknowledgep1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3acknowledgep1.jpg)
+![d2overviewmanual.jpg](./director-boxes/d2overviewmanual.jpg)
 
-	![d3acknowledgep2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3acknowledgep2.jpg)
+![d2studiomanual.jpg](./director-boxes/d2studiomanual.jpg)
 
-	![d3copyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3copyrightpage.jpg)
+![d3.1cdromback.jpg](./director-boxes/d3.1cdromback.jpg)
 
-	![d3interactivitymanual.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3interactivitymanual.jpg)
+![d3.1cdromfront.jpg](./director-boxes/d3.1cdromfront.jpg)
 
-	![d3intropage6.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3intropage6.jpg)
+![d3acceleratorusersguide.jpg](./director-boxes/d3acceleratorusersguide.jpg)
 
-	![d3intropage7.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3intropage7.jpg)
+![d3acknowledgep1.jpg](./director-boxes/d3acknowledgep1.jpg)
 
-	![d3intropage8.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3intropage8.jpg)
+![d3acknowledgep2.jpg](./director-boxes/d3acknowledgep2.jpg)
 
-	![d3intropage9.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3intropage9.jpg)
+![d3copyrightpage.jpg](./director-boxes/d3copyrightpage.jpg)
 
-	![d3intropage9x.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3intropage9x.jpg)
+![d3interactivitymanual.jpg](./director-boxes/d3interactivitymanual.jpg)
 
-	![d3overviewmanual.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3overviewmanual.jpg)
+![d3intropage6.jpg](./director-boxes/d3intropage6.jpg)
 
-	![d3softwarecatalog1992.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3softwarecatalog1992.jpg)
+![d3intropage7.jpg](./director-boxes/d3intropage7.jpg)
 
-	![d3studiomanual.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d3studiomanual.jpg)
+![d3intropage8.jpg](./director-boxes/d3intropage8.jpg)
 
-	![d4boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxback.jpg)
+![d3intropage9.jpg](./director-boxes/d3intropage9.jpg)
 
-	![d4boxback_01.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxback_01.jpg)
+![d3intropage9x.jpg](./director-boxes/d3intropage9x.jpg)
 
-	![d4boxbottom.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxbottom.jpg)
+![d3overviewmanual.jpg](./director-boxes/d3overviewmanual.jpg)
 
-	![d4boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxfront.jpg)
+![d3softwarecatalog1992.jpg](./director-boxes/d3softwarecatalog1992.jpg)
 
-	![d4boxside1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxside1.jpg)
+![d3studiomanual.jpg](./director-boxes/d3studiomanual.jpg)
 
-	![d4boxside2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxside2.jpg)
+![d4boxback.jpg](./director-boxes/d4boxback.jpg)
 
-	![d4boxtop.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4boxtop.jpg)
+![d4boxback_01.jpg](./director-boxes/d4boxback_01.jpg)
 
-	![d4copyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4copyrightpage.jpg)
+![d4boxbottom.jpg](./director-boxes/d4boxbottom.jpg)
 
-	![d4learningdirectorback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4learningdirectorback.jpg)
+![d4boxfront.jpg](./director-boxes/d4boxfront.jpg)
 
-	![d4learningdirectorfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4learningdirectorfront.jpg)
+![d4boxside1.jpg](./director-boxes/d4boxside1.jpg)
 
-	![d4lingodictionaryback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4lingodictionaryback.jpg)
+![d4boxside2.jpg](./director-boxes/d4boxside2.jpg)
 
-	![d4lingodictionaryfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4lingodictionaryfront.jpg)
+![d4boxtop.jpg](./director-boxes/d4boxtop.jpg)
 
-	![d4mmconnectionsbudlett.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4mmconnectionsbudlett.jpg)
+![d4copyrightpage.jpg](./director-boxes/d4copyrightpage.jpg)
 
-	![d4mmconnectionscover.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4mmconnectionscover.jpg)
+![d4learningdirectorback.jpg](./director-boxes/d4learningdirectorback.jpg)
 
-	![d4mmconnectionsd4win.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4mmconnectionsd4win.jpg)
+![d4learningdirectorfront.jpg](./director-boxes/d4learningdirectorfront.jpg)
 
-	![d4mmconnectionsgraymat.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4mmconnectionsgraymat.jpg)
+![d4lingodictionaryback.jpg](./director-boxes/d4lingodictionaryback.jpg)
 
-	![d4mmconnectionssoundedi.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4mmconnectionssoundedi.jpg)
+![d4lingodictionaryfront.jpg](./director-boxes/d4lingodictionaryfront.jpg)
 
-	![d4tipstricksback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4tipstricksback.jpg)
+![d4mmconnectionsbudlett.jpg](./director-boxes/d4mmconnectionsbudlett.jpg)
 
-	![d4tipstricksfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4tipstricksfront.jpg)
+![d4mmconnectionscover.jpg](./director-boxes/d4mmconnectionscover.jpg)
 
-	![d4usingdirectorback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4usingdirectorback.jpg)
+![d4mmconnectionsd4win.jpg](./director-boxes/d4mmconnectionsd4win.jpg)
 
-	![d4usingdirectorfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4usingdirectorfront.jpg)
+![d4mmconnectionsgraymat.jpg](./director-boxes/d4mmconnectionsgraymat.jpg)
 
-	![d4usinglingoback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4usinglingoback.jpg)
+![d4mmconnectionssoundedi.jpg](./director-boxes/d4mmconnectionssoundedi.jpg)
 
-	![d4usinglingofront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4usinglingofront.jpg)
+![d4tipstricksback.jpg](./director-boxes/d4tipstricksback.jpg)
 
-	![d4whatsnew01.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnew01.jpg)
+![d4tipstricksfront.jpg](./director-boxes/d4tipstricksfront.jpg)
 
-	![d4whatsnew02.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnew02.jpg)
+![d4usingdirectorback.jpg](./director-boxes/d4usingdirectorback.jpg)
 
-	![d4whatsnew03.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnew03.jpg)
+![d4usingdirectorfront.jpg](./director-boxes/d4usingdirectorfront.jpg)
 
-	![d4whatsnew04.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnew04.jpg)
+![d4usinglingoback.jpg](./director-boxes/d4usinglingoback.jpg)
 
-	![d4whatsnew05.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnew05.jpg)
+![d4usinglingofront.jpg](./director-boxes/d4usinglingofront.jpg)
 
-	![d4whatsnew06.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnew06.jpg)
+![d4whatsnew01.jpg](./director-boxes/d4whatsnew01.jpg)
 
-	![d4whatsnewlingo01.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnewlingo01.jpg)
+![d4whatsnew02.jpg](./director-boxes/d4whatsnew02.jpg)
 
-	![d4whatsnewlingo02.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d4whatsnewlingo02.jpg)
+![d4whatsnew03.jpg](./director-boxes/d4whatsnew03.jpg)
 
-	![d5boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5boxback.jpg)
+![d4whatsnew04.jpg](./director-boxes/d4whatsnew04.jpg)
 
-	![d5boxbottom.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5boxbottom.jpg)
+![d4whatsnew05.jpg](./director-boxes/d4whatsnew05.jpg)
 
-	![d5boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5boxfront.jpg)
+![d4whatsnew06.jpg](./director-boxes/d4whatsnew06.jpg)
 
-	![d5boxside1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5boxside1.jpg)
+![d4whatsnewlingo01.jpg](./director-boxes/d4whatsnewlingo01.jpg)
 
-	![d5boxside2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5boxside2.jpg)
+![d4whatsnewlingo02.jpg](./director-boxes/d4whatsnewlingo02.jpg)
 
-	![d5boxtop.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5boxtop.jpg)
+![d5boxback.jpg](./director-boxes/d5boxback.jpg)
 
-	![d5copyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5copyrightpage.jpg)
+![d5boxbottom.jpg](./director-boxes/d5boxbottom.jpg)
 
-	![d5learninglingoback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5learninglingoback.jpg)
+![d5boxfront.jpg](./director-boxes/d5boxfront.jpg)
 
-	![d5learninglingofront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5learninglingofront.jpg)
+![d5boxside1.jpg](./director-boxes/d5boxside1.jpg)
 
-	![d5lingodictionaryback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5lingodictionaryback.jpg)
+![d5boxside2.jpg](./director-boxes/d5boxside2.jpg)
 
-	![d5lingodictionaryfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5lingodictionaryfront.jpg)
+![d5boxtop.jpg](./director-boxes/d5boxtop.jpg)
 
-	![d5maccondirectorstudio.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5maccondirectorstudio.jpg)
+![d5copyrightpage.jpg](./director-boxes/d5copyrightpage.jpg)
 
-	![d5macconextreme3d.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5macconextreme3d.jpg)
+![d5learninglingoback.jpg](./director-boxes/d5learninglingoback.jpg)
 
-	![d5maccongraphicstudio.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5maccongraphicstudio.jpg)
+![d5learninglingofront.jpg](./director-boxes/d5learninglingofront.jpg)
 
-	![d5macromediaconbudmsg.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5macromediaconbudmsg.jpg)
+![d5lingodictionaryback.jpg](./director-boxes/d5lingodictionaryback.jpg)
 
-	![d5macromediaconnections.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5macromediaconnections.jpg)
+![d5lingodictionaryfront.jpg](./director-boxes/d5lingodictionaryfront.jpg)
 
-	![d5usingdirectorback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5usingdirectorback.jpg)
+![d5maccondirectorstudio.jpg](./director-boxes/d5maccondirectorstudio.jpg)
 
-	![d5usingdirectorfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5usingdirectorfront.jpg)
+![d5macconextreme3d.jpg](./director-boxes/d5macconextreme3d.jpg)
 
-	![d5whatsnew1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5whatsnew1.jpg)
+![d5maccongraphicstudio.jpg](./director-boxes/d5maccongraphicstudio.jpg)
 
-	![d5whatsnew2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5whatsnew2.jpg)
+![d5macromediaconbudmsg.jpg](./director-boxes/d5macromediaconbudmsg.jpg)
 
-	![d5whatsnewlingo1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d5whatsnewlingo1.jpg)
+![d5macromediaconnections.jpg](./director-boxes/d5macromediaconnections.jpg)
 
-	![d6boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxback.jpg)
+![d5usingdirectorback.jpg](./director-boxes/d5usingdirectorback.jpg)
 
-	![d6boxbottom.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxbottom.jpg)
+![d5usingdirectorfront.jpg](./director-boxes/d5usingdirectorfront.jpg)
 
-	![d6boxbottom2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxbottom2.jpg)
+![d5whatsnew1.jpg](./director-boxes/d5whatsnew1.jpg)
 
-	![d6boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxfront.jpg)
+![d5whatsnew2.jpg](./director-boxes/d5whatsnew2.jpg)
 
-	![d6boxside1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxside1.jpg)
+![d5whatsnewlingo1.jpg](./director-boxes/d5whatsnewlingo1.jpg)
 
-	![d6boxside2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxside2.jpg)
+![d6boxback.jpg](./director-boxes/d6boxback.jpg)
 
-	![d6boxtop.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6boxtop.jpg)
+![d6boxbottom.jpg](./director-boxes/d6boxbottom.jpg)
 
-	![d6copyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6copyrightpage.jpg)
+![d6boxbottom2.jpg](./director-boxes/d6boxbottom2.jpg)
 
-	![d6gettingstartedback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6gettingstartedback.jpg)
+![d6boxfront.jpg](./director-boxes/d6boxfront.jpg)
 
-	![d6gettingstartedfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6gettingstartedfront.jpg)
+![d6boxside1.jpg](./director-boxes/d6boxside1.jpg)
 
-	![d6learninglingoback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6learninglingoback.jpg)
+![d6boxside2.jpg](./director-boxes/d6boxside2.jpg)
 
-	![d6learninglingofront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6learninglingofront.jpg)
+![d6boxtop.jpg](./director-boxes/d6boxtop.jpg)
 
-	![d6lingodictionaryback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6lingodictionaryback.jpg)
+![d6copyrightpage.jpg](./director-boxes/d6copyrightpage.jpg)
 
-	![d6lingodictionaryfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6lingodictionaryfront.jpg)
+![d6gettingstartedback.jpg](./director-boxes/d6gettingstartedback.jpg)
 
-	![d6usingdirectorback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6usingdirectorback.jpg)
+![d6gettingstartedfront.jpg](./director-boxes/d6gettingstartedfront.jpg)
 
-	![d6usingdirectorfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d6usingdirectorfront.jpg)
+![d6learninglingoback.jpg](./director-boxes/d6learninglingoback.jpg)
 
-	![d7boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d7boxback.jpg)
+![d6learninglingofront.jpg](./director-boxes/d6learninglingofront.jpg)
 
-	![d7boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d7boxfront.jpg)
+![d6lingodictionaryback.jpg](./director-boxes/d6lingodictionaryback.jpg)
 
-	![d8boxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d8boxback.jpg)
+![d6lingodictionaryfront.jpg](./director-boxes/d6lingodictionaryfront.jpg)
 
-	![d8boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/d8boxfront.jpg)
+![d6usingdirectorback.jpg](./director-boxes/d6usingdirectorback.jpg)
 
-	![director8.5boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/director8.5boxfront.jpg)
+![d6usingdirectorfront.jpg](./director-boxes/d6usingdirectorfront.jpg)
 
-	![director9boxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/director9boxfront.jpg)
+![d7boxback.jpg](./director-boxes/d7boxback.jpg)
 
-	![videoworks-back.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/videoworks-back.jpg)
+![d7boxfront.jpg](./director-boxes/d7boxfront.jpg)
 
-	![videoworks-front.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/videoworks-front.jpg)
+![d8boxback.jpg](./director-boxes/d8boxback.jpg)
 
-	![videoworksiiback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/videoworksiiback.jpg)
+![d8boxfront.jpg](./director-boxes/d8boxfront.jpg)
 
-	![videoworksiifront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/videoworksiifront.jpg)
+![director8.5boxfront.jpg](./director-boxes/director8.5boxfront.jpg)
 
-	![videoworksiiside.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/videoworksiiside.jpg)
+![director9boxfront.jpg](./director-boxes/director9boxfront.jpg)
 
-	![vw2accelacknowledgements.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2accelacknowledgements.jpg)
+![videoworks-back.jpg](./director-boxes/videoworks-back.jpg)
 
-	![vw2accelboxback.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2accelboxback.jpg)
+![videoworks-front.jpg](./director-boxes/videoworks-front.jpg)
 
-	![vw2accelboxfront.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2accelboxfront.jpg)
+![videoworksiiback.jpg](./director-boxes/videoworksiiback.jpg)
 
-	![vw2accelcopyrightpage.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2accelcopyrightpage.jpg)
+![videoworksiifront.jpg](./director-boxes/videoworksiifront.jpg)
 
-	![vw2accelcover.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2accelcover.jpg)
+![videoworksiiside.jpg](./director-boxes/videoworksiiside.jpg)
 
-	![vw2acceldisk1.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2acceldisk1.jpg)
+![vw2accelacknowledgements.jpg](./director-boxes/vw2accelacknowledgements.jpg)
 
-	![vw2acceldisk2.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2acceldisk2.jpg)
+![vw2accelboxback.jpg](./director-boxes/vw2accelboxback.jpg)
 
-	![vw2accelintro.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2accelintro.jpg)
+![vw2accelboxfront.jpg](./director-boxes/vw2accelboxfront.jpg)
 
-	![vw2acceltableofcontents.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vw2acceltableofcontents.jpg)
+![vw2accelcopyrightpage.jpg](./director-boxes/vw2accelcopyrightpage.jpg)
 
-	![vwinteractivelicense.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwinteractivelicense.jpg)
+![vw2accelcover.jpg](./director-boxes/vw2accelcover.jpg)
 
-	![vwintreference01.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference01.jpg)
+![vw2acceldisk1.jpg](./director-boxes/vw2acceldisk1.jpg)
 
-	![vwintreference02.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference02.jpg)
+![vw2acceldisk2.jpg](./director-boxes/vw2acceldisk2.jpg)
 
-	![vwintreference03.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference03.jpg)
+![vw2accelintro.jpg](./director-boxes/vw2accelintro.jpg)
 
-	![vwintreference04.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference04.jpg)
+![vw2acceltableofcontents.jpg](./director-boxes/vw2acceltableofcontents.jpg)
 
-	![vwintreference05.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference05.jpg)
+![vwinteractivelicense.jpg](./director-boxes/vwinteractivelicense.jpg)
 
-	![vwintreference06.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference06.jpg)
+![vwintreference01.jpg](./director-boxes/vwintreference01.jpg)
 
-	![vwintreference07.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference07.jpg)
+![vwintreference02.jpg](./director-boxes/vwintreference02.jpg)
 
-	![vwintreference08.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference08.jpg)
+![vwintreference03.jpg](./director-boxes/vwintreference03.jpg)
 
-	![vwintreference09.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference09.jpg)
+![vwintreference04.jpg](./director-boxes/vwintreference04.jpg)
 
-	![vwintreference10.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference10.jpg)
+![vwintreference05.jpg](./director-boxes/vwintreference05.jpg)
 
-	![vwintreference11.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference11.jpg)
+![vwintreference06.jpg](./director-boxes/vwintreference06.jpg)
 
-	![vwintreference12.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference12.jpg)
+![vwintreference07.jpg](./director-boxes/vwintreference07.jpg)
 
-	![vwintreference13.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference13.jpg)
+![vwintreference08.jpg](./director-boxes/vwintreference08.jpg)
 
-	![vwintreference14.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference14.jpg)
+![vwintreference09.jpg](./director-boxes/vwintreference09.jpg)
 
-	![vwintreference15.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference15.jpg)
+![vwintreference10.jpg](./director-boxes/vwintreference10.jpg)
 
-	![vwintreference16.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference16.jpg)
+![vwintreference11.jpg](./director-boxes/vwintreference11.jpg)
 
-	![vwintreference17.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference17.jpg)
+![vwintreference12.jpg](./director-boxes/vwintreference12.jpg)
 
-	![vwintreference18.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwintreference18.jpg)
+![vwintreference13.jpg](./director-boxes/vwintreference13.jpg)
 
-	![vwitutorialpage21.jpg](https://github.com/jht1900/macr/blob/master//director-boxes/vwitutorialpage21.jpg)
+![vwintreference14.jpg](./director-boxes/vwintreference14.jpg)
+
+![vwintreference15.jpg](./director-boxes/vwintreference15.jpg)
+
+![vwintreference16.jpg](./director-boxes/vwintreference16.jpg)
+
+![vwintreference17.jpg](./director-boxes/vwintreference17.jpg)
+
+![vwintreference18.jpg](./director-boxes/vwintreference18.jpg)
+
+![vwitutorialpage21.jpg](./director-boxes/vwitutorialpage21.jpg)

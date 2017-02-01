@@ -6,7 +6,9 @@ var yargs 				= require('yargs').argv;
 
 var env = new nunjucks.Environment(new nunjucks.FileSystemLoader('./src/templates'));
 
-var g_prefix = 'https://github.com/jht1900/macr/blob/master/';
+//var g_prefix = 'https://github.com/jht1900/macr/blob/master';
+var g_prefix = '.';
+var g_img_ext = {'jpg':1, 'png':1 };
 
 render_path('../../books', 'README.md', g_prefix + '/books/');
 render_path('../../director-boxes', 'README.md', g_prefix + '/director-boxes/');
