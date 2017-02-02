@@ -7,8 +7,6 @@
 
 ![0-jtmarkjg.jpg](./0-jtmarkjg.jpg)
 
-![README.md](./README.md)
-
 ![d1acknowledgement.jpg](./d1acknowledgement.jpg)
 
 ![d1boxback.jpg](./d1boxback.jpg)

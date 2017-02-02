@@ -1,29 +1,34 @@
 
 var nunjucks 			= require('nunjucks');
 var fs 						= require('fs');
-var mkdirp 				= require('mkdirp');
-var yargs 				= require('yargs').argv;
+var path					= require('path');
+// var mkdirp 				= require('mkdirp');
+// var yargs 				= require('yargs').argv;
 
 var env = new nunjucks.Environment(new nunjucks.FileSystemLoader('./src/templates'));
 
 //var g_prefix = 'https://github.com/jht1900/macr/blob/master';
 var g_prefix = './';
-var g_img_ext = {'jpg':1, 'png':1 };
+var g_img_ext = {'.jpg':1, '.png':1 };
 
 render_path('../../books', 'README.md', g_prefix);
 render_path('../../director-boxes', 'README.md', g_prefix );
 
 // ---------------------------------------------------------------------------------------
-function render_path(path, outfile, prefix) {
+function render_path(in_path, outfile, prefix) {
 	var items = [];
 	//var path = '../../books';
 
-	visit_files_at_path(path, function (finfo) {
+	visit_files_at_path(in_path, function (finfo) {
 		//console.log('finfo.fullpath='+finfo.fullpath+' finfo.filename='+finfo.filename);
+		var ext = path.extname(finfo.filename).toLowerCase();;
+		if (! g_img_ext[ext]) {
+			return;
+		}
 		items.push( { title: finfo.filename, link: prefix + finfo.filename});
 	});
 
-	render_for_info( { items: items }, './src/templates/image_list.njk', path + '/' + outfile);
+	render_for_info( { items: items }, './src/templates/image_list.njk', in_path + '/' + outfile);
 }
 
 // ---------------------------------------------------------------------------------------

@@ -10,5 +10,3 @@
 ![LingoWorkshop2ndEdWin-back.jpg](./LingoWorkshop2ndEdWin-back.jpg)
 
 ![LingoWorkshop2ndEdWin-front.jpg](./LingoWorkshop2ndEdWin-front.jpg)
-
-![README.md](./README.md)
